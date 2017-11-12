@@ -8,7 +8,7 @@ Gracias al **CSS** la página web puede tener diferentes colores, se puede modif
 la fuente, el tamaño, poner fondo, etc.
 
 Para que el documento .css se aplique a la página, en el documento .html, hay que poner  
-la etiqueta link (rel="stylesheet" type="text/css" href="_nombre del .css"_).
+la etiqueta (link rel="stylesheet" type="text/css" href="_nombre del .css"_).
 
 Para cambiar el diseño de cada elemento en css utilizo las mismas etiquetas que salen en mi **HTML**,  
 y cuando he necesitado cambiar algo que no podia indicarse solo con una etiqueta he utilizado etiquetas  
